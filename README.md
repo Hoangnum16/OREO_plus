@@ -104,7 +104,7 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 
 - **npm install express**
 - **npm audit fix**
-- **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
+- **Ấn nút run trên màn hình** - đợi khoảng 30p tùy tốc độ mạng
 - **Copy link** ở trang replit. Link có định dạng **https://miraiv2.nameuser.repl.co**
 - **Tạo tài khoản trên trang [UptimeRobot](https://uptimerobot.com/)**
 
